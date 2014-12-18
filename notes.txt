@@ -37,5 +37,10 @@ Step 7 - Add classes and/or IDs to help target content in preparation for stylin
   - IDs should be used when the element is going to be unique on a given page
   - classes are used to group content together so we can efficiently target elements in a more global manner
 
-  
+Step 8 - Add inline CSS
+
+  - what is CSS and what is the "cascade"
+  - inline vs internal vs external
+
+
 
