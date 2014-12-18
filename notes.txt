@@ -53,7 +53,12 @@ Step 11 - Add basic typography style to h1, p and footer
 
 Step 12 - Target by class adding underline to h1
 
+Step 13 - Style post meta data author and date
 
+  - remove dash in html 
+  - have author and date appear on opposite sides
+
+  
 
 
 
