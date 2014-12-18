@@ -10,4 +10,8 @@ Step 2 - Adding Basic Block Level Elements
   - Add different levels of headings
   - Add paragraphs
 
+Step 3 - Adding inline elements
+
+  - Inline elements do not break lines before or after
+
 
