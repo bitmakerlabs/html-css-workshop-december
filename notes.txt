@@ -47,6 +47,11 @@ Step 9 - Move CSS to internal sheet
   - enclosed within the head tags
   - allows for more efficient targeting of elements
 
-  
+Step 10 - Move CSS to higher-level element (body) to affect more of the document
+
+
+
+
+
 
 
