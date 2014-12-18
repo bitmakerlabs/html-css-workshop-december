@@ -49,6 +49,8 @@ Step 9 - Move CSS to internal sheet
 
 Step 10 - Move CSS to higher-level element (body) to affect more of the document
 
+Step 11 - Add basic typography style to h1, p and footer
+
 
 
 
