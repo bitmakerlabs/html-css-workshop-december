@@ -42,5 +42,11 @@ Step 8 - Add inline CSS
   - what is CSS and what is the "cascade"
   - inline vs internal vs external
 
+Step 9 - Move CSS to internal sheet
+
+  - enclosed within the head tags
+  - allows for more efficient targeting of elements
+
+  
 
 
