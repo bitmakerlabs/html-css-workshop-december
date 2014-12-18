@@ -20,4 +20,11 @@ Step 4 - Adding an image
   - Images will take up as much space as their dimensions dictate
   - What happens if we start to play with browser size?
 
+Step 5 - Add logical divisions to content using div and span
+
+  - div and span are widely used to divide areas up in logical groups so they can be manipulated easier
+  - div is block level
+  - span is inline
+  - group things like content vs image, meta-data for article, add footer
+
 
