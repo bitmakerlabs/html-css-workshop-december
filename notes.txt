@@ -58,7 +58,9 @@ Step 13 - Style post meta data author and date
   - remove dash in html 
   - have author and date appear on opposite sides
 
-  
+Step 14 - Start considering screen sizes and make image scale to 100%
+
+
 
 
 
