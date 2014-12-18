@@ -1,0 +1,57 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  line-height: 1.65;
+  margin: 0 auto;
+  max-width: 1280px;
+}
+h1 {
+  font-size: 55px;
+  letter-spacing: -1.25px;
+}
+p {
+  font-family: Georgia, Times, serif;
+}  
+footer {
+  border-top: 1px solid #000;
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+}  
+img {
+  max-width: 100%;
+}     
+.post-title {
+  border-bottom: 8px solid black;
+  line-height: 1.1;
+  margin-bottom: 0;
+}  
+.post-meta {
+  height: 40px;
+  font-size: 18px;
+}
+.post-author {
+  float: left;
+}
+.post-published {
+  float: right;
+}
+.post-content {
+  width: 70%;
+  margin: 0 auto;
+}     
+
+@media screen and (max-width: 500px) {
+  .post-title {
+    font-size: 40px;
+  }
+  .post-meta {
+    font-size: 14px;
+  }
+  .post-content {
+    font-size: 18px;
+  }
+  footer {
+    font-size: 14px;
+  }
+}     

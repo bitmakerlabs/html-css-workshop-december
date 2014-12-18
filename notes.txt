@@ -66,6 +66,6 @@ Step 16 - Limit width of post content
 
 Step 17 - Add media queries to change a few elements if screen size is small
 
-
+Step 18 - Move CSS to external sheet
 
 
