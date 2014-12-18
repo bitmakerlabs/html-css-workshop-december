@@ -64,6 +64,8 @@ Step 15 - Center all content including image by giving max width and auto horizo
 
 Step 16 - Limit width of post content
 
+Step 17 - Add media queries to change a few elements if screen size is small
+
 
 
 
