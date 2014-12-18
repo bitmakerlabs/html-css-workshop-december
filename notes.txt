@@ -14,4 +14,10 @@ Step 3 - Adding inline elements
 
   - Inline elements do not break lines before or after
 
+Step 4 - Adding an image
+
+  - Images are inline elements and do not require closing tag
+  - Images will take up as much space as their dimensions dictate
+  - What happens if we start to play with browser size?
+
 
