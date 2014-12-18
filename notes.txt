@@ -60,6 +60,9 @@ Step 13 - Style post meta data author and date
 
 Step 14 - Start considering screen sizes and make image scale to 100%
 
+Step 15 - Center all content including image by giving max width and auto horizontal margin
+
+
 
 
 
