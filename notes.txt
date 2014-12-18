@@ -4,3 +4,10 @@ Step 1 - HTML basic structure
   - Where title appears
   - Where body appears
 
+Step 2 - Adding Basic Block Level Elements
+
+  - Block level elements take up as much space as is given, and by default, will have line breaks before and after
+  - Add different levels of headings
+  - Add paragraphs
+
+
