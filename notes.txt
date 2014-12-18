@@ -62,7 +62,7 @@ Step 14 - Start considering screen sizes and make image scale to 100%
 
 Step 15 - Center all content including image by giving max width and auto horizontal margin
 
-
+Step 16 - Limit width of post content
 
 
 
