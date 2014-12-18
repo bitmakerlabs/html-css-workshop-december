@@ -1,0 +1,6 @@
+Step 1 - HTML basic structure
+
+  - HTML5 DOCTYPE declaration
+  - Where title appears
+  - Where body appears
+
