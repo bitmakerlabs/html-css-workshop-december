@@ -27,4 +27,8 @@ Step 5 - Add logical divisions to content using div and span
   - span is inline
   - group things like content vs image, meta-data for article, add footer
 
+Step 6 - Add semantics where possible
+
+  - Semantic elements are for reinforcing the purpose or intention of the content
+  - They don't imply any particular display characteristic by default
 
